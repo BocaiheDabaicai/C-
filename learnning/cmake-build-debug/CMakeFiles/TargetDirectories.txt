@@ -1,0 +1,3 @@
+C:/Users/NfryCreator/Desktop/gate/CProject/learnning/cmake-build-debug/CMakeFiles/learnning.dir
+C:/Users/NfryCreator/Desktop/gate/CProject/learnning/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NfryCreator/Desktop/gate/CProject/learnning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
