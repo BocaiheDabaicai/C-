@@ -10,12 +10,12 @@ int main(void) {
     width = 10.0f;
     height = 8.0f;
     volume = length * width * height;
-    weight = volume/166;
+    weight = volume / 166;
     weight++;
-    printf("Dimensions: %.1fx%.1fx%.1f\n",length,width,height);
-    printf("Volume (cubes inches): %.1f\n",volume);
-    printf("the calculate result is : %.2f\n",volume/166);
-    printf("Dimensional weight (pounds): %d\n",weight);
+    printf("Dimensions: %.1fx%.1fx%.1f\n", length, width, height);
+    printf("Volume (cubes inches): %.1f\n", volume);
+    printf("the calculate result is : %.2f\n", volume / 166);
+    printf("Dimensional weight (pounds): %d\n", weight);
 
     return 1;
 }
